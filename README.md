@@ -1,5 +1,6 @@
 # Student Management System
 desktop-based Student Management System built with Python and Tkinter. It allows users to perform CRUD operations on student records, search students, reset the database, and manage data visually through a user-friendly interface.
+### OUTPUT
 # 📌 Features
 
 - Add, update, delete, and search student records
