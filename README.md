@@ -46,18 +46,36 @@ desktop-based Student Management System built with Python and Tkinter. It allows
   Select a student record from the list
   Scroll down to the Treeview table showing existing student data.
   Click once on the student you want to update.
-  ![Screenshot (308)](https://github.com/user-attachments/assets/c6fbedc7-08ed-42b8-bc14-63b2a799e3b3)
-  ![Screenshot (307)](https://github.com/user-attachments/assets/9376f75a-c571-47e0-8d7f-fa47c53f65f4)
-  ![Screenshot (306)](https://github.com/user-attachments/assets/df0e08bf-b765-44f7-809f-a3c0a6ef70a5)
-  ### Deleting the Student
+  ![Screenshot (305)](https://github.com/user-attachments/assets/5d35c379-d920-4dc4-87c1-763a049a7a24)
+  ![Screenshot (305)](https://github.com/user-attachments/assets/21cbc267-c9c1-4d0f-9e9b-2f4fba55ebda)
+  ![Screenshot (306)](https://github.com/user-attachments/assets/b25ccddf-8b70-41d9-8de0-c99a8e20ce02)
+   ### Deleting the Student
   Select the student from the table
   Scroll to the Treeview list (lower part of the window).
   Click on the row of the student you want to delete.
   The row will be highlighted (typically in yellow).
   Click the Delete button
-  ![Screenshot (309)](https://github.com/user-attachments/assets/acb3690e-bab1-4603-9143-4877e758aafa)
-  ![Screenshot (310)](https://github.com/user-attachments/assets/c2301bb6-b3ba-4de0-a216-fe9b90b04950)
-  ![Screenshot (309)](https://github.com/user-attachments/assets/7735c337-cf03-4e38-acb2-587f272ec263)
+  ![Screenshot (309)](https://github.com/user-attachments/assets/f5729c12-bd60-42b5-b025-b927de13a307)
+  ![Screenshot (311)](https://github.com/user-attachments/assets/6838e479-6ea7-41ac-bd30-77b7fdfae4b2)
+  ![Screenshot (310)](https://github.com/user-attachments/assets/c89a05eb-5081-441b-bd47-09d9b0a0da7e)
+ 
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
