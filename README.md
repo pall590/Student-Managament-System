@@ -47,8 +47,10 @@ desktop-based Student Management System built with Python and Tkinter. It allows
   Scroll down to the Treeview table showing existing student data.
   Click once on the student you want to update.
   ![Screenshot (305)](https://github.com/user-attachments/assets/5d35c379-d920-4dc4-87c1-763a049a7a24)
-  ![Screenshot (305)](https://github.com/user-attachments/assets/21cbc267-c9c1-4d0f-9e9b-2f4fba55ebda)
-  ![Screenshot (306)](https://github.com/user-attachments/assets/b25ccddf-8b70-41d9-8de0-c99a8e20ce02)
+  ![Screenshot (307)](https://github.com/user-attachments/assets/3da0f010-e637-4399-b6e8-3aff924ca224)
+  ![Screenshot (307)](https://github.com/user-attachments/assets/cda1468c-79d3-49be-b99e-1802950a3537)
+
+
    ### Deleting the Student
   Select the student from the table
   Scroll to the Treeview list (lower part of the window).
